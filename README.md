@@ -6,9 +6,9 @@ An end-to-end data analysis and visual storytelling project investigating global
 
 ## 📊 Executive Dashboard Preview
 
-![Global Tech Layoffs Dashboard](dashboard_preview.png)
+![Global Tech Layoffs Dashboard](world_layoffs_analysis.png)
 
-> **Note:** To interact with the full workbook locally, download `Layoffs_Analysis_Dashboard.twbx` from this repository and open it in Tableau Desktop or Tableau Reader.
+> **Note:** To interact with the full workbook locally, download `World_Layoffs_Analysis.twbx` from this repository and open it in Tableau Desktop or Tableau Reader.
 
 
 
@@ -27,6 +27,6 @@ An end-to-end data analysis and visual storytelling project investigating global
 
 
 ## 📁 Repository Structure
-* `/Data Cleaning.sql`: Scripts for deduplication, null imputation, and data type normalization.
+* `/World Layoffs (Data Cleaning).sql`: Scripts for deduplication, null imputation, and data type normalization.
 * `/Exploratory Data Analysis.sql`: Queries for rolling totals, dense ranking, and multi-factor aggregations.
-* `/Layoffs_Analysis_Dashboard.twbx`: Complete Tableau packaged workbook.
+* `/World_Layoffs_Analysis.twbx`: Complete Tableau packaged workbook.
